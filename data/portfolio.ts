@@ -31,7 +31,7 @@ export const portfolioData: PortfolioData = {
       "A versatile portfolio template for developers, designers, and technical consultants who want a polished, buyer-ready online presence.",
     primaryCta: "View Projects",
     secondaryCta: "Contact Me",
-    image: "/portfoliotemplate/images/profile/morgan-hero.png",
+    image: "/portfoliotemplate/images/profile/portfoliotemp-hero.png",
   },
   about: {
     biography:
@@ -47,7 +47,7 @@ export const portfolioData: PortfolioData = {
       { value: "18", label: "Tools & Technologies" },
       { value: "9", label: "Certifications" },
     ],
-    image: "/portfoliotemplate/images/profile/morgan-abt.png",
+    image: "/portfoliotemplate/images/profile/portfoliotemp-about.png",
   },
   skills: [
     {
